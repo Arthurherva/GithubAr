@@ -6,9 +6,9 @@ Este poyecto consiste en desarrollo  de estrtegias educativas ambientales en sal
   * ghfhhghj
 
 ## ksgfjaskfhas
-Material | Costo | Tiempo
----------|-------|-------
-Pc       | 15    | 36hrs
+Material | Costo | Tiempo|
+---------|-------|-------|
+Pc|15|36hrs|
 
 
 ## Poblaciones blanco
